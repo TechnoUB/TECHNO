@@ -1,5 +1,5 @@
 from os import system
-system ("git clone -b new https://github.com/TechnoUserbot && cd TechnoUserbot && python3 -m userbot")
+system ("git clone https://github.com/TechnoUserbot && cd TechnoUserbot && python3 -m userbot")
 # try af 
 
 
